@@ -13,7 +13,7 @@
 下载项目
 
 ```bash
-$ git clone https://github.com/wanhebin/clash-for-linux.git
+$ git clone https://github.com/TylorWu/clash-for-linux.git
 ```
 
 进入到项目目录，编辑`start.sh`脚本文件，修改变量`URL`的值。
